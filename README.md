@@ -80,5 +80,10 @@ OrderSystemrepo/<br>
 ├── repository/         # JPA Repositories<br>
 ├── resources/          # Configuration files (application.properties)<br>
 ├── OrderSystemApplication.java<br>
-└── pom.xml             # Maven configuration
+└── pom.xml             # Maven configuration<br>
 
+**Screenshot**:
+Postman:
+![image](https://github.com/user-attachments/assets/4c7ae52d-0f47-4f7d-8041-f554a4446b9d)
+
+**
